@@ -11,9 +11,17 @@ using Microsoft.Extensions.Hosting;
 namespace Basics2
 {
     public class Startup
-    {        
+    {
         public void ConfigureServices(IServiceCollection services)
         {
+            //Cookie Handler
+            services.AddAuthentication("CookieSchema")
+                .AddCookie("CookieSchema", config =>
+                {
+                    config.Cookie.Name = "Grandmas.Cookie";
+                    config.LoginPath = "/Home/Authenticate";
+                });
+
             services.AddControllersWithViews();
         }        
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -24,6 +32,12 @@ namespace Basics2
             }
 
             app.UseRouting();
+                      
+           //Who you are
+            app.UseAuthentication();
+
+            //are you allowed
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {

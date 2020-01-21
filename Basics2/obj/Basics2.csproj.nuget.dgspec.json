@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Instructor\\source\\repos\\Basics2\\Basics2.csproj": {}
+    "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Basics2\\Basics2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Instructor\\source\\repos\\Basics2\\Basics2.csproj": {
+    "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Basics2\\Basics2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Instructor\\source\\repos\\Basics2\\Basics2.csproj",
+        "projectUniqueName": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Basics2\\Basics2.csproj",
         "projectName": "Basics2",
-        "projectPath": "C:\\Users\\Instructor\\source\\repos\\Basics2\\Basics2.csproj",
-        "packagesPath": "C:\\Users\\Instructor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Instructor\\source\\repos\\Basics2\\obj\\",
+        "projectPath": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Basics2\\Basics2.csproj",
+        "packagesPath": "C:\\Users\\emaru\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Basics2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Instructor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\emaru\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,6 +67,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.2, 3.0.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -78,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
