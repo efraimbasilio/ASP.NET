@@ -1,0 +1,8 @@
+C:\Users\Instructor\source\repos\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.deps.json
+C:\Users\Instructor\source\repos\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.dll
+C:\Users\Instructor\source\repos\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.pdb
+C:\Users\Instructor\source\repos\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.vbprojAssemblyReference.cache
+C:\Users\Instructor\source\repos\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Instructor\source\repos\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.AssemblyInfo.vb
+C:\Users\Instructor\source\repos\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.dll
+C:\Users\Instructor\source\repos\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.pdb

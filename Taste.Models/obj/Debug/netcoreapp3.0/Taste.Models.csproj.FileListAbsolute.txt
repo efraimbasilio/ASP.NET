@@ -1,0 +1,16 @@
+C:\Users\Instructor\source\repos\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.deps.json
+C:\Users\Instructor\source\repos\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.dll
+C:\Users\Instructor\source\repos\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.AssemblyInfoInputs.cache
+C:\Users\Instructor\source\repos\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.AssemblyInfo.cs
+C:\Users\Instructor\source\repos\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.csprojAssemblyReference.cache
+C:\Users\Instructor\source\repos\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.pdb
+C:\Users\Instructor\source\repos\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.dll
+C:\Users\Instructor\source\repos\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.pdb
+C:\Users\emaru\Desktop\a\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.deps.json
+C:\Users\emaru\Desktop\a\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.dll
+C:\Users\emaru\Desktop\a\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.pdb
+C:\Users\emaru\Desktop\a\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.csprojAssemblyReference.cache
+C:\Users\emaru\Desktop\a\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.AssemblyInfoInputs.cache
+C:\Users\emaru\Desktop\a\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.AssemblyInfo.cs
+C:\Users\emaru\Desktop\a\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.dll
+C:\Users\emaru\Desktop\a\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.pdb

@@ -1,0 +1,16 @@
+C:\Users\Instructor\source\repos\Taste.Utility\bin\Debug\netcoreapp3.0\Taste.Utility.deps.json
+C:\Users\Instructor\source\repos\Taste.Utility\bin\Debug\netcoreapp3.0\Taste.Utility.dll
+C:\Users\Instructor\source\repos\Taste.Utility\bin\Debug\netcoreapp3.0\Taste.Utility.pdb
+C:\Users\Instructor\source\repos\Taste.Utility\obj\Debug\netcoreapp3.0\Taste.Utility.csprojAssemblyReference.cache
+C:\Users\Instructor\source\repos\Taste.Utility\obj\Debug\netcoreapp3.0\Taste.Utility.AssemblyInfoInputs.cache
+C:\Users\Instructor\source\repos\Taste.Utility\obj\Debug\netcoreapp3.0\Taste.Utility.AssemblyInfo.cs
+C:\Users\Instructor\source\repos\Taste.Utility\obj\Debug\netcoreapp3.0\Taste.Utility.dll
+C:\Users\Instructor\source\repos\Taste.Utility\obj\Debug\netcoreapp3.0\Taste.Utility.pdb
+C:\Users\emaru\Desktop\a\Taste.Utility\bin\Debug\netcoreapp3.0\Taste.Utility.deps.json
+C:\Users\emaru\Desktop\a\Taste.Utility\bin\Debug\netcoreapp3.0\Taste.Utility.dll
+C:\Users\emaru\Desktop\a\Taste.Utility\bin\Debug\netcoreapp3.0\Taste.Utility.pdb
+C:\Users\emaru\Desktop\a\Taste.Utility\obj\Debug\netcoreapp3.0\Taste.Utility.csprojAssemblyReference.cache
+C:\Users\emaru\Desktop\a\Taste.Utility\obj\Debug\netcoreapp3.0\Taste.Utility.AssemblyInfoInputs.cache
+C:\Users\emaru\Desktop\a\Taste.Utility\obj\Debug\netcoreapp3.0\Taste.Utility.AssemblyInfo.cs
+C:\Users\emaru\Desktop\a\Taste.Utility\obj\Debug\netcoreapp3.0\Taste.Utility.dll
+C:\Users\emaru\Desktop\a\Taste.Utility\obj\Debug\netcoreapp3.0\Taste.Utility.pdb

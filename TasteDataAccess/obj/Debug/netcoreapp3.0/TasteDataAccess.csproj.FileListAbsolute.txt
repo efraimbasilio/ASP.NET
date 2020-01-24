@@ -1,0 +1,16 @@
+C:\Users\Instructor\source\repos\TasteDataAccess\bin\Debug\netcoreapp3.0\TasteDataAccess.deps.json
+C:\Users\Instructor\source\repos\TasteDataAccess\bin\Debug\netcoreapp3.0\TasteDataAccess.dll
+C:\Users\Instructor\source\repos\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.AssemblyInfoInputs.cache
+C:\Users\Instructor\source\repos\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.AssemblyInfo.cs
+C:\Users\Instructor\source\repos\TasteDataAccess\bin\Debug\netcoreapp3.0\TasteDataAccess.pdb
+C:\Users\Instructor\source\repos\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.dll
+C:\Users\Instructor\source\repos\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.pdb
+C:\Users\Instructor\source\repos\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.csprojAssemblyReference.cache
+C:\Users\emaru\Desktop\a\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.dll
+C:\Users\emaru\Desktop\a\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.pdb
+C:\Users\emaru\Desktop\a\TasteDataAccess\bin\Debug\netcoreapp3.0\TasteDataAccess.deps.json
+C:\Users\emaru\Desktop\a\TasteDataAccess\bin\Debug\netcoreapp3.0\TasteDataAccess.dll
+C:\Users\emaru\Desktop\a\TasteDataAccess\bin\Debug\netcoreapp3.0\TasteDataAccess.pdb
+C:\Users\emaru\Desktop\a\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.csprojAssemblyReference.cache
+C:\Users\emaru\Desktop\a\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.AssemblyInfoInputs.cache
+C:\Users\emaru\Desktop\a\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.AssemblyInfo.cs
