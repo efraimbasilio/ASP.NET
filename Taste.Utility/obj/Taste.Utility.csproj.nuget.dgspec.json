@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emaru\\Desktop\\a\\Taste.Utility\\Taste.Utility.csproj": {}
+    "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Taste.Utility\\Taste.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emaru\\Desktop\\a\\Taste.Utility\\Taste.Utility.csproj": {
+    "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Taste.Utility\\Taste.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emaru\\Desktop\\a\\Taste.Utility\\Taste.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Taste.Utility\\Taste.Utility.csproj",
         "projectName": "Taste.Utility",
-        "projectPath": "C:\\Users\\emaru\\Desktop\\a\\Taste.Utility\\Taste.Utility.csproj",
+        "projectPath": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Taste.Utility\\Taste.Utility.csproj",
         "packagesPath": "C:\\Users\\emaru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emaru\\Desktop\\a\\Taste.Utility\\obj\\",
+        "outputPath": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Taste.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emaru\\AppData\\Roaming\\NuGet\\NuGet.Config",

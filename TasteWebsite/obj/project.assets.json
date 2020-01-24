@@ -6329,11 +6329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emaru\\Desktop\\a\\TasteWebsite\\TasteWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\TasteWebsite\\TasteWebsite.csproj",
       "projectName": "TasteWebsite",
-      "projectPath": "C:\\Users\\emaru\\Desktop\\a\\TasteWebsite\\TasteWebsite.csproj",
+      "projectPath": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\TasteWebsite\\TasteWebsite.csproj",
       "packagesPath": "C:\\Users\\emaru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emaru\\Desktop\\a\\TasteWebsite\\obj\\",
+      "outputPath": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\TasteWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emaru\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6349,8 +6349,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\emaru\\Desktop\\a\\TasteDataAccess\\TasteDataAccess.csproj": {
-              "projectPath": "C:\\Users\\emaru\\Desktop\\a\\TasteDataAccess\\TasteDataAccess.csproj"
+            "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\TasteDataAccess\\TasteDataAccess.csproj": {
+              "projectPath": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\TasteDataAccess\\TasteDataAccess.csproj"
             }
           }
         }

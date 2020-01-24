@@ -4172,11 +4172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emaru\\Desktop\\a\\Taste.Models\\Taste.Models.csproj",
+      "projectUniqueName": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Taste.Models\\Taste.Models.csproj",
       "projectName": "Taste.Models",
-      "projectPath": "C:\\Users\\emaru\\Desktop\\a\\Taste.Models\\Taste.Models.csproj",
+      "projectPath": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Taste.Models\\Taste.Models.csproj",
       "packagesPath": "C:\\Users\\emaru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emaru\\Desktop\\a\\Taste.Models\\obj\\",
+      "outputPath": "C:\\Users\\emaru\\Documents\\GitHub\\ASP.NET\\Taste.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emaru\\AppData\\Roaming\\NuGet\\NuGet.Config",

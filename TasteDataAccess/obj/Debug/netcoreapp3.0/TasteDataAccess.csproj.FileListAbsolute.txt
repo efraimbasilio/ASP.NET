@@ -14,3 +14,11 @@ C:\Users\emaru\Desktop\a\TasteDataAccess\bin\Debug\netcoreapp3.0\TasteDataAccess
 C:\Users\emaru\Desktop\a\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.csprojAssemblyReference.cache
 C:\Users\emaru\Desktop\a\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.AssemblyInfoInputs.cache
 C:\Users\emaru\Desktop\a\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.AssemblyInfo.cs
+C:\Users\emaru\Documents\GitHub\ASP.NET\TasteDataAccess\bin\Debug\netcoreapp3.0\TasteDataAccess.deps.json
+C:\Users\emaru\Documents\GitHub\ASP.NET\TasteDataAccess\bin\Debug\netcoreapp3.0\TasteDataAccess.dll
+C:\Users\emaru\Documents\GitHub\ASP.NET\TasteDataAccess\bin\Debug\netcoreapp3.0\TasteDataAccess.pdb
+C:\Users\emaru\Documents\GitHub\ASP.NET\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.csprojAssemblyReference.cache
+C:\Users\emaru\Documents\GitHub\ASP.NET\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.AssemblyInfoInputs.cache
+C:\Users\emaru\Documents\GitHub\ASP.NET\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.AssemblyInfo.cs
+C:\Users\emaru\Documents\GitHub\ASP.NET\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.dll
+C:\Users\emaru\Documents\GitHub\ASP.NET\TasteDataAccess\obj\Debug\netcoreapp3.0\TasteDataAccess.pdb
